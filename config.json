@@ -1,0 +1,14 @@
+{
+  "rows": 7,
+  "cols": 7,
+  "cell": 0.8,
+  "box_size": 0.56,
+  "robot_radius": 0.12,
+  "physics_dt": 0.005,
+  "action_steps": 20,
+  "max_speed": 0.32,
+  "success_tolerance": 0.056,
+  "episode_steps": 180,
+  "eval_interval": 25000,
+  "seed": 7
+}
